@@ -10,6 +10,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //este es un comentario para probar git
+        //con esto vamos a probar la nueva rama
+        //nuevos cambios
+        //nuevos cambios 2
+        //nuevos cambios 3
+        //nuevos cambios 4
+
     }
 }
